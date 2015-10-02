@@ -1,30 +1,22 @@
-CMPI pages repository
-=====================
+CMPI pages project
+==================
 
-This Github project (cmpi-wg/cmpi-wg.github.io) is the place where the CMPI API
-documentation generated from the CMPI header files is published.
+Purpose of this project
+-----------------------
 
-CMPI stands for "Common Manageability Programming Interface" and is a C-language
-API between a Management Broker (aka CIMOM) and Management Instrumentation (aka
-Providers). CMPI supports the CIM and WBEM standards defined by
-[DMTF](http://www.dmtf.org).
+This project is a [GitHub pages project](https://pages.github.com),
+that is used to publish the CMPI API documentation on its corresponding
+web site [http://cmpi-wg.github.io/](http://cmpi-wg.github.io/).
 
-The CMPI Standard is maintained on the
-[CMPI Working Group web space](https://wiki.opengroup.org/councils-wiki/doku.php?id=forums:enterprise_management:cmpi:start).
+The CMPI API documentation is maintained and generated in the
+[CMPI headers project](https://github.com/cmpi-wg/cmpi-headers), see there
+for details on how to publish the CMPI API documentation on this (CMPI pages)
+project.
 
-The CMPI header files for the CMPI Standard are maintained in the
-[cmpi-wg/cmpi-headers project on Github](https://github.com/cmpi-wg/cmpi-headers).
-The CMPI API documentation is generated and published to this project here
-by creating a clone of the cmpi-headers project on your local system, building
-the HTML files using doxygen in its work directory, and by committing the
-generated HTML files into the cmpi-wg.github.io project, which causes
-them to be published immediately on [http://cmpi-wg.github.io].
-Details on how that is done, will be added later.
+The static HTML pages for
+[http://cmpi-wg.github.io/](http://cmpi-wg.github.io/)
+(e.g. its top level landing page) are maintained in this project here, directly.
 
-Requirements for your local system to do that:
-- Being on a Linux system
-- Doxygen v1.8.6 or higher
- 
 License
 -------
 
