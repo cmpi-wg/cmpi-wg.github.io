@@ -7,12 +7,11 @@
 <link rel="stylesheet" href="pages/resources/style.css" type="text/css"/>
 </head>
 <body>
-{% include pages/header.html %}
-<!--
+<object data="pages/header.html" type="text/html">
 <object data="pages/navbar.html" type="text/html">
 <param name="page" value="home"/>
 </object>
--->
+
 <div id="content">
 
 <h3>What this site is about</h3>
@@ -36,6 +35,6 @@ defined by <a href="http://www.dmtf.org">DMTF</a>.</p>
 </ul>
 
 </div>
-<embed href="pages/footer.html" type="text/html"/>
+<object data="pages/footer.html" type="text/html">
 </body>
 </html>
