@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- This page uses HTML 5 and Server-Side Includes -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CMPI Standard</title>
+<link rel="stylesheet" href="pages/resources/style.css" type="text/css" />
+</head>
+<body>
+<!--#include virtual="header.shtml" -->
+<!--#set var="page" value="olderversions" -->
+<!--#include virtual="navbar.shtml" -->
+<div id="content">
+
+<h2>Older Versions</h2>
+
+This page lists the older published versions of the CMPI Standard.
+The latest version is listed on the <a href="../index.shtml">home page</a>.
+
+<h3>CMPI 2.0.0</h3>
+
+<p>CMPI 2.0.0 refers to CMPI Issue 2.0 without any Corrigenda.</p>
+<p>Status: Published.</p>
+<ul>
+  <li><a href="https://collaboration.opengroup.org/tech/management/cmpi/documents.php?action=show&dcat=&gdid=13038">CMPI 2.0 header files</a></li>
+  <li><a href="http://www.ws-inc.com/resources/api/cmpi/CMPIAPIDocumentation.html">CMPI 2.0 API documentation in HTML (online)</a></li>
+  <li><a href="https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12078">CMPI Issue 2.0, December 2006, Document C061</a></li>
+</ul>
+
+<h3>CMPI 1.0.2</h3>
+
+<p>CMPI 1.0.2 refers to CMPI Issue 1.0 with Corrigenda 1 and 2.</p>
+<p>Status: Published.</p>
+<ul>
+  <li><a href="https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12003">CMPI Issue 1.0, December 2004, Document C051</a></li>
+  <li><a href="https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12007">Corrigendum 1, October 2005, Document U064</a></li>
+  <li><a href="https://www2.opengroup.org/ogsys/jsp/publications/PublicationDetails.jsp?publicationid=12074">Corrigendum 2, August 2006, Document U066</a></li>
+</ul>
+
+</div>
+<!--#include virtual="footer.shtml" -->
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!-- This page uses HTML 5 and Server-Side Includes -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CMPI Standard</title>
+<link rel="stylesheet" href="pages/resources/style.css" type="text/css" />
+</head>
+<body>
+<!--#include virtual="header.shtml" -->
+<!--#set var="page" value="contribution" -->
+<!--#include virtual="navbar.shtml" -->
+<div id="content">
+
+<h2>Feedback</h2>
+
+Feedback on the CMPI standard, its header files and API documentation, or on
+this web site are welcome!
+
+Feedback on the CMPI Standard document should be made as directed in
+the CMPI Standard document (e.g. by email to
+<a href="mailto:ogspecs@opengroup.org">ogspecs@opengroup.org</a>).
+
+Feedback on the CMPI header files, the CMPI API documentation, or on this web
+site should be made via the
+<a href="https://github.com/cmpi-wg/cmpi-headers/issues">Issue tracker of the cmpi-headers project on GitHub</a>.
+
+In all cases, the Open Group rules on feedback apply, as documented in the
+CMPI Standard document.
+
+<h2>Contribution</h2>
+
+<p>The CMPI Standard is owned and published by the
+<a href="http://www.opengroup.org/">Open Group</a>.
+Copies of the standard can be downloaded free of charge from the Open Group
+web site, e.g. via the links provided on the
+<a href="../index.shtml">home page</a>.</p>
+
+<p>The <em>CMPI Working Group</em> within the Open Group is responsible for
+maintaining the CMPI Standard, including the development of new versions.
+It uses a number of resources for that:</p>
+<ul>
+<li>The
+<a href="https://wiki.opengroup.org/councils-wiki/doku.php?id=forums:enterprise_management:cmpi:start">CMPI WG wiki on the Open Group site</a>
+is used for decision making and for maintenance of the standards document.</li>
+<li>The
+<a href="https://github.com/cmpi-wg/cmpi-headers">cmpi-headers project on GitHub</a>
+is used for maintaining the CMPI header files.</li>
+<li>The
+<a href="https://github.com/cmpi-wg/cmpi-wg.github.io">cmpi-wg.github.io project on GitHub</a>
+is used for maintaining the content of this web site.</li>
+<li>The
+<a href="mailto:ogcmpi@opengroup.org">ogcmpi@opengroup.org mailing list</a>
+is used for WG-internal discussion.</li>
+</ul>
+
+<p>In order to become a member of the CMPI WG, you or your company need to
+be a member of the
+<a href="http://www.opengroup.org/getinvolved/forums/enterprise/">Open Group Enterprise Management Forum</a>.
+If you want to join the CMPI WG, please send an according mail to the
+<a href="mailto:ogcmpi@opengroup.org">ogcmpi@opengroup.org mailing list</a>.</p>
+
+<p>Note that providing feedback about the CMPI standard, header files, API
+documentation or this web site does not require membership in the Open Group
+Enterprise Management Forum or in the CMPI WG.</p>
+
+</div>
+<!--#include virtual="footer.shtml" -->
+</body>
+</html>

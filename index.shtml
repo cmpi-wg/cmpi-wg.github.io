@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- This page uses HTML 5 and Server-Side Includes -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>CMPI Standard</title>
+<link rel="stylesheet" href="pages/resources/style.css" type="text/css" />
+</head>
+<body>
+<!--#include virtual="pages/header.shtml" -->
+<!--#set var="page" value="home" -->
+<!--#include virtual="pages/navbar.shtml" -->
+<div id="content">
+
+<h3>What this site is about</h3>
+
+<p>This site provides the CMPI Standard, the CMPI header files, and the CMPI API
+documentation.</p>
+<p>CMPI stands for "Common Manageability Programming Interface" and is a
+C-language API between a Management Broker (aka CIMOM) and Management
+Instrumentation (aka Providers). CMPI supports the CIM and WBEM standards
+defined by <a href="http://www.dmtf.org">DMTF</a>.</p>
+
+<h3>CMPI 2.1.0</h3>
+
+<p>CMPI 2.1.0 refers to CMPI Issue 2.1 without any Corrigenda.</p>
+<p>Status (as of 2015-10-01): Finalized by the CMPI WG and in the Open Group release process.</p>
+<ul>
+  <li><a href="cmpi-releases/2.1.0/files/cmpi_2.1.0_headers.zip">WG draft of the CMPI 2.1.0 header files (download) </a></li>
+  <li><a href="cmpi-releases/2.1.0/files/cmpi_2.1.0_api_html.zip">WG draft of the CMPI 2.1.0 API documentation in HTML (download)</a></li>
+  <li><a href="cmpi-releases/2.1.0/api/index.html">WG draft of the CMPI 2.1.0 API documentation in HTML (online)</a></li>
+  <li><a href="TBD">CMPI Standard, Issue 2.1, to be released</a></li>
+</ul>
+
+</div>
+<!--#include virtual="pages/footer.shtml" -->
+</body>
+</html>

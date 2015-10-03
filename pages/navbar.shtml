@@ -1,0 +1,101 @@
+<div id="sidebar">
+
+<div style="overflow:auto">
+  <a href="http://www.opengroup.org/"><img src="resources/TheOpenGroup_Logo_Vertical.jpeg" alt="[Open Group logo]"></a>
+  <br/>
+  <a href="http://cmpi-wg.github.io/"><img src="resources/CMPI_Logo.png" alt="[CMPI logo]"></a>
+</div>
+
+<p/>
+
+<h4>CMPI Standard</h4>
+
+<div class="navitem">
+<!--#if expr="$page = home" -->
+Home
+<!--#else -->
+<a href="../index.shtml">Home</a>
+<!--#endif -->
+</div>
+
+<div class="navitem">
+<!--#if expr="$page = olderversions" -->
+Older Versions
+<!--#else -->
+<a href="olderversions.shtml">Older Versions</a>
+<!--#endif -->
+</div>
+
+<div class="navitem">
+<!--#if expr="$page = contribution" -->
+Contribution &amp; Feedback
+<!--#else -->
+<a href="contribution.shtml">Contribution &amp; Feedback</a>
+<!--#endif -->
+</div>
+
+<div class="navitem">
+<!--#if expr="$page = license" -->
+License
+<!--#else -->
+<a href="license.shtml">License</a>
+<!--#endif -->
+</div>
+
+<p/>
+
+<h4>Related Documentation</h4>
+
+<div class="navitem">
+<a href="http://publib.boulder.ibm.com/infocenter/zos/v1r10/topic/com.ibm.zos.r10.cfzu100/app4.htm#app4">Developing CMPI Providers for z/OS</a>
+</div>
+
+<p/>
+
+<h4>Related Standards</h4>
+
+<div class="navitem">
+<a href="http://www.dmtf.org/standards/wbem">WBEM</a>
+</div>
+
+<div class="navitem">
+<a href="http://www.dmtf.org/standards/cim">CIM</a>
+</div>
+
+<div class="navitem">
+<a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/wmisdk/wmi/wmi_reference.asp">WMI</a>
+</div>
+
+<p/>
+
+<h4>Related Projects</h4>
+
+<div class="navitem">
+<a href="http://www.openpegasus.org/">OpenPegasus</a>
+</div>
+
+<div class="navitem">
+<a href="http://sourceforge.net/projects/sblim/files/sblim-sfcb/">SFCB</a>
+</div>
+
+<div class="navitem">
+<a href="http://wbemservices.sourceforge.net/">WBEM Services</a>
+</div>
+
+<div class="navitem">
+<a href="http://openwbem.sourceforge.net/">OpenWBEM</a>
+</div>
+
+<div class="navitem">
+<a href="http://sblim.sourceforge.net/clientapps.html">SBLIM WBEMCLI</a>
+</div>
+
+<p/>
+
+<h4>Hosted by:</h4>
+
+<div class="navitem">
+<a href="http://pages.github.com"><img src="resources/GitHub-Pages_Logo_Cat+Text.png" width="122" border="0" alt="[GitHub:pages logo]"></a>
+</div>
+
+</div>

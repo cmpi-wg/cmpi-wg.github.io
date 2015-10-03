@@ -4,7 +4,7 @@ CMPI pages project
 Purpose of this project
 -----------------------
 
-This project is a [GitHub pages project](https://pages.github.com),
+This project is a [GitHub:pages project](https://pages.github.com),
 that is used to publish the CMPI API documentation on its corresponding
 web site [http://cmpi-wg.github.io/](http://cmpi-wg.github.io/).
 
