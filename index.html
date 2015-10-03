@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>CMPI Standard</title>
-<link rel="stylesheet" href="resources/style.css" type="text/css"/>
+<link rel="stylesheet" href="resources/style.css" type="text/css">
 </head>
 <body>
 <script src="resources/jquery.js"></script>
+<script src="resources/script.js"></script>
 <div id="header_html"></div>
 <script type="text/javascript">
-  $(document).ready(function(){
-    $('#header_html').load('header.html'); 
-  });
+  load_url_into_id('header.html', 'header_html');
 </script> 
 <div id="navbar_html"></div>
 <script type="text/javascript">
-  $(document).ready(function(){
-    $('#navbar_html').load('navbar.html'); 
-  });
+  load_url_into_id('navbar.html', 'navbar_html');
 </script> 
 
 <div id="content">
@@ -27,14 +24,15 @@
 <p>This site provides the CMPI Standard, the CMPI header files, and the CMPI API
 documentation.</p>
 <p>CMPI stands for "Common Manageability Programming Interface" and is a
-C-language API between a Management Broker (aka CIMOM) and Management
-Instrumentation (aka Providers). CMPI supports the CIM and WBEM standards
-defined by <a href="http://www.dmtf.org">DMTF</a>.</p>
+C-language API (enabled for C++) between a Management Broker (aka CIMOM or CIM
+Object Manager) and Management Instrumentation (aka Providers).
+CMPI supports the CIM and WBEM standards defined by
+<a href="http://www.dmtf.org">DMTF</a>.</p>
 
-<h2>CMPI 2.1.0</h2>
+<h2>Current Version: CMPI 2.1.0</h2>
 
 <p>CMPI 2.1.0 refers to CMPI Issue 2.1 without any Corrigenda.</p>
-<p>Status as of 2015-10-01): Finalized by the CMPI WG and in the Open Group release process.</p>
+<p>Status (as of 2015-10-01): Finalized by the CMPI WG and in the Open Group release process.</p>
 <ul>
   <li><a href="cmpi-releases/2.1.0/files/cmpi_2.1.0_headers.zip">WG draft of the CMPI 2.1.0 header files (download) </a></li>
   <li><a href="cmpi-releases/2.1.0/files/cmpi_2.1.0_api_html.zip">WG draft of the CMPI 2.1.0 API documentation in HTML (download)</a></li>
@@ -51,9 +49,7 @@ defined by <a href="http://www.dmtf.org">DMTF</a>.</p>
 
 <div id="footer_html"></div>
 <script type="text/javascript">
-  $(document).ready(function(){
-    $('#footer_html').load('footer.html'); 
-  });
+  load_url_into_id('footer.html', 'footer_html');
 </script> 
 </body>
 </html>

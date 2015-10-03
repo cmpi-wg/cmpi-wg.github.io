@@ -1,3 +1,7 @@
+/*
+ * CSS stylesheet for CMPI pages project.
+ */
+
 body {
 	background: white;
 	color: black;
@@ -8,11 +12,11 @@ body {
 
 #sidebar {
 	float: left;
-	width: 20em;
+	width: 18em;
 	padding: 1em;
 }
 #content {
-	margin-left: 22em;
+	margin-left: 20em;
 	margin-right: 2em;
 }
 #header {
@@ -37,6 +41,10 @@ img {
 div.navitem {
 	margin-top: 4px;
 	margin-bottom: 4px;
+}
+h4.navitem {
+	margin-top: 24px;
+	margin-bottom: 8px;
 }
 li {
 	margin-top: 6px;
