@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<!-- This page uses HTML 5 and Server-Side Includes -->
+<!-- This page uses HTML 5 -->
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <title>CMPI Standard</title>
-<link rel="stylesheet" href="pages/resources/style.css" type="text/css" />
+<link rel="stylesheet" href="pages/resources/style.css" type="text/css"/>
 </head>
 <body>
-<!--#include virtual="pages/header.shtml" -->
-<!--#set var="page" value="home" -->
-<!--#include virtual="pages/navbar.shtml" -->
+<embed href="pages/header.html" type="text/html"/>
+<object data="pages/navbar.html" type="text/html">
+<param name="page" value="home"/>
+</object>
 <div id="content">
 
 <h3>What this site is about</h3>
@@ -33,6 +34,6 @@ defined by <a href="http://www.dmtf.org">DMTF</a>.</p>
 </ul>
 
 </div>
-<!--#include virtual="pages/footer.shtml" -->
+<embed href="pages/footer.html" type="text/html"/>
 </body>
 </html>
