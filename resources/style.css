@@ -12,11 +12,11 @@ body {
 
 #sidebar {
 	float: left;
-	width: 18em;
+	width: 12em;
 	padding: 1em;
 }
 #content {
-	margin-left: 20em;
+	margin-left: 14em;
 	margin-right: 2em;
 }
 #header {
