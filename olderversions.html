@@ -1,22 +1,31 @@
 <!DOCTYPE html>
-<!-- This page uses HTML 5 -->
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <title>CMPI Standard</title>
-<link rel="stylesheet" href="pages/resources/style.css" type="text/css"/>
+<link rel="stylesheet" href="resources/style.css" type="text/css"/>
 </head>
 <body>
-<embed href="pages/header.html" type="text/html"/>
-<object data="pages/navbar.html" type="text/html">
-<param name="page" value="olderversions"/>
-</object>
+<script src="resources/jquery.js"></script>
+<div id="header_html"></div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#header_html').load('header.html'); 
+  });
+</script> 
+<div id="navbar_html"></div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#navbar_html').load('navbar.html'); 
+  });
+</script> 
+
 <div id="content">
 
 <h2>Older Versions</h2>
 
-This page lists the older published versions of the CMPI Standard.
-The latest version is listed on the <a href="../index.shtml">home page</a>.
+<p>This page lists the older published versions of the CMPI Standard.
+The latest version is listed on the <a href="index.html">home page</a>.</p>
 
 <h3>CMPI 2.0.0</h3>
 
@@ -39,6 +48,12 @@ The latest version is listed on the <a href="../index.shtml">home page</a>.
 </ul>
 
 </div>
-<embed href="pages/footer.html" type="text/html"/>
+
+<div id="footer_html"></div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#footer_html').load('footer.html'); 
+  });
+</script> 
 </body>
 </html>
