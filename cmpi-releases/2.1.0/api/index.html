@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>CMPI Standard: Main Page</title>
+<title>CMPI 2.1.0 API: Main Page</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -23,10 +23,8 @@
  <tbody>
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
-   <div id="projectname">CMPI Standard
-   &#160;<span id="projectnumber">2.1</span>
+   <div id="projectname">CMPI 2.1.0 API
    </div>
-   <div id="projectbrief">Online documentation generated from the CMPI Standard headers</div>
   </td>
  </tr>
  </tbody>
@@ -79,25 +77,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <div class="header">
   <div class="headertitle">
-<div class="title">CMPI Standard Documentation</div>  </div>
+<div class="title">CMPI 2.1.0 API Documentation</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="ref-cmpi-standard"></a>This online documentation has been generated from the header files of the Open Group Standard:</p>
-<div style="margin-left:20px"> <b>Systems Management: Common Manageability Programming Interface (CMPI), Issue 2, Version 1</b><br/>
-</div><div style="margin-left:20px"> ISBN: <b>TBA</b><br/>
- Document Number: <b>TBA</b><br/>
- Published by The Open Group, <b>Month</b> 2015<br/>
- </div><p>This standard is referred to as "CMPI Standard" in this online documentation.</p>
-<p>The specification is available from the OpengGroup at: <b>TBA</b></p>
-<p>Comments relating to the CMPI Standard, to this online documentation, or to the CMPI header files may be submitted to:</p>
-<div style="margin-left:20px"> The Open Group<br/>
- Apex Plaza, Forbury Road<br/>
- Reading, Berkshire, RG1 1AX<br/>
- United Kingdom<br/>
- </div><p>or by electronic mail to:</p>
-<div style="margin-left:20px"> <a href="#" onclick="location.href='mai'+'lto:'+'ogs'+'pe'+'cs@'+'op'+'eng'+'ro'+'up.'+'or'+'g'; return false;">ogspe<span style="display: none;">.nosp@m.</span>cs@o<span style="display: none;">.nosp@m.</span>pengr<span style="display: none;">.nosp@m.</span>oup.<span style="display: none;">.nosp@m.</span>org</a><br/>
- </div><h2>Structure of this online documentation </h2>
-<p>The <a href="modules.html"><b>Modules</b></a> tab (at the top of this page) attempts to resemble the heading structure of the CMPI Standard as much as possible. In addition, it has modules for preprocessor symbols and for the CMPI convenience functions (also known as CMPI macros). This tab should be used as a general entry point, unless you know exactly what you are looking for.</p>
+<div class="textblock"><h2>How to use this documentation </h2>
+<p>This is an API reference for programmers. Before digging into it, it is helpful to understand the concepts of CMPI, for example by reading the introductory chapters of the <a class="el" href="index.html#ref-cmpi-standard">CMPI Standard</a>.</p>
+<p>The <a href="modules.html"><b>Modules</b></a> tab (at the top of this page) resembles the heading structure of the CMPI Standard as much as possible (except for the introductory chapters). In addition, it has modules for preprocessor symbols and for the CMPI convenience functions (also known as CMPI macros). This tab should be used as a general entry point, unless you know exactly what you are looking for.</p>
 <p>The <a href="pages.html"><b>Related Pages</b></a> tab provides automatically generated lists, such as things added in CMPI 2.1, or things made mandatory in CMPI 2.1, or the MB capabilities, or a list of deprecated elements.</p>
 <p>The <a href="annotated.html"><b>Data Structures</b></a> tab provides an alphabetically sorted list of all structures and unions of the CMPI Standard, and of their data fields. This list does not contain any enumerations, preprocessor symbols, or typedefs that are unrelated to structures or unions.</p>
 <p>The <a href="files.html"><b>Files</b></a> tab lists the CMPI header files, and with each of them, the list of data structures (structs and unions), macros (including symbols), typedefs, and enumerations. There is also an alphabetically sorted list of globals.</p>
@@ -111,8 +96,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li><code><a class="el" href="cmpios_8h.html" title="Defines OS-specific symbols for threading structures, etc. ">cmpios.h</a></code> - Defines OS-specific symbols for threading structures, etc. MIs and MBs do not need to include this header file because it is already included when including the main header file <code><a class="el" href="cmpift_8h.html" title="Main header file for CMPI; Defines CMPI function tables and object structures. ">cmpift.h</a></code>.</li>
 <li><code><a class="el" href="cmpipl_8h.html" title="Verifies that a valid compile platform has been defined. ">cmpipl.h</a></code> - Verifies that a valid compile platform has been defined. MIs and MBs do not need to include this header file because it is already included when including the main header file <code><a class="el" href="cmpift_8h.html" title="Main header file for CMPI; Defines CMPI function tables and object structures. ">cmpift.h</a></code>.</li>
 </ul>
-<p>For the benefit of developers, copies of these header files are downloadable from the CMPI website (<a href="http://www.opengroup.org/tech/management/cmpi">www.opengroup.org/tech/management/cmpi</a>). These files are provided as a convenience only. In the case of any discrepancy between the header files and the CMPI Standard (incorporating any subsequent Technical Corrigenda), the CMPI Standard shall be definitive.</p>
+<p>These files are provided as a convenience only. In the case of any discrepancy between the header files and the CMPI Standard (incorporating any subsequent Technical Corrigenda), the CMPI Standard shall be definitive.</p>
 <p>Some CMPI-related C preprocessor symbols can be set by users of the CMPI header files; they are described in module <a class="el" href="group__symbols-user.html">Symbols definable by the CMPI user</a>.</p>
+<h2>CMPI 2.1.0 Standard </h2>
+<ul>
+<li><a class="anchor" id="ref-cmpi-standard"></a> The Open Group: Systems Management: Common Manageability Programming Interface (CMPI), Issue 2.1, <b>TBD: Release date</b><br/>
+ <b>TBD: Download link</b></li>
+</ul>
 <h2>References </h2>
 <ul>
 <li><a class="anchor" id="ref-ansi-ieee-754"></a> ANSI/IEEE Std 754-1985: <em>IEEE Standard for Binary Floating-Point Arithmetic</em>, August 1985;<br/>
@@ -147,7 +137,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Oct 3 2015 18:17:03 for CMPI Standard by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sun Oct 4 2015 10:27:17 for CMPI 2.1.0 API by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.6
 </small></address>
