@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url> 
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!-- This file is maintained manually, but has some automatically generated
+     entries from https://www.xml-sitemaps.com -->
+
+  <url>
     <loc>http://cmpi-wg.github.io/</loc>
     <lastmod>2015-10-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,22 +19,1682 @@
        <image:caption>The Open Group Logo</image:caption>
     </image:image>
   </url>
-  <url> 
+  <url>
+    <loc>http://cmpi-wg.github.io/index.html</loc>
+    <lastmod>2015-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://cmpi-wg.github.io/cmpi_2.1.0_api.html</loc>
+    <lastmod>2015-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/files/cmpi_2.1.0_headers.zip</loc>
+    <lastmod>2015-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/files/cmpi_2.1.0_api_html.zip</loc>
+    <lastmod>2015-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://cmpi-wg.github.io/olderversions.html</loc>
     <lastmod>2015-10-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
-  <url> 
+  <url>
     <loc>http://cmpi-wg.github.io/contribution.html</loc>
     <lastmod>2015-10-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
   </url>
-  <url> 
+  <url>
     <loc>http://cmpi-wg.github.io/license.html</loc>
     <lastmod>2015-10-03</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
+
+<!-- Begin of automatically generated entries. The manually maintained
+     entries above have been removed from the automatically generated stuff. -->
+
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/index.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/pages.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/modules.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/annotated.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/files.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpift_8h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpimacs_8h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpidt_8h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpios_8h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpipl_8h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__symbols-user.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/added200.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/added210.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/changed210.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/incompatible210.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/required200.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/required210.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capread.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capwrite.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capmanipulation.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capassociations.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capqueryexec.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capquerynorm.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capqualifiers.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capindications.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capopsys.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capmemory.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/caperrors.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/caplogging.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/captracing.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capfiltering.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capcodepage.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/captranslation.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/capcontext.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/platformspecific.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cxxspecific.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/statusopenpegasus.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/todo.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/deprecated.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/bug.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__data-types.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-codepage-id.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__types-cim-types.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__types-misc.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-valueptr.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__types-data-items.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-data.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-value-state.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-value.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-pred-op.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-count.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-msg-file-handle.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-gc-stat.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-version.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-status.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-rc.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-severity.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-level.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-error-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-error-severity.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-error-probable-cause.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-error-src-format.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__type-flags.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mi-functions.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mi-factory.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mi-factory-specific.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mi-factory-generic.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__instance-mi.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__association-mi.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__method-mi.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__indication-mi.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__property-mi.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mb-capabilities.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mb-edt.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-context.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__def-context-fieldnames.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-result.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-string.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-array.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-enumeration.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-instance.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-objectpath.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-args.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-datetime.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-selectexp.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-selectcond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-subcond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-predicate.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-error.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-propertylist.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__edt-enumerationfilter.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mb-services.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerenc-factory.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerenc-misc.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__mb-tables.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__broker-indications.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__broker-client.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__qualifier-services.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__broker-thread-reg.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerext-lib.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerext-thread.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerext-mutex.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokerext-condition.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__brokermem-all.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__symbols.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-platform.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-version.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-inline.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__symbols-versioning.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-version-nnn.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-current-version.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-ver-nnn.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__symbols-os-encaps.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-thread-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-thread-return.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-thread-cdecl.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-thread-key-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-mutex-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-cond-type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__symbols-export-import.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-export.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-import.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__sym-extern-c.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-broker.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__cmfmt-args.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__cmfmt-val.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-context.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-result.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-string.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-array.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-enumeration.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-instance.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-objectpath.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-args.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-datetime.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-selectexp.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-selectcond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-subcond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-predicate.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-error.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-propertylist.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-edt-enumerationfilter.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-helper.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/group__convenience-func-mi-factory-stubs.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/classes.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIArgs.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIArgsFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIArray.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIArrayFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIAssociationMI.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIAssociationMIFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIBroker.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIBrokerEncFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIBrokerExtFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIBrokerFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIBrokerMemFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIContext.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIContextFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIData.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIDateTime.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIDateTimeFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIEnumeration.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIEnumerationFilter.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIEnumerationFilterFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIEnumerationFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIError.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIErrorFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIIndicationMI.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIIndicationMIFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIInstance.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIInstanceFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIInstanceMI.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIInstanceMIFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIMethodMI.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIMethodMIFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIObjectPath.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIObjectPathFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPredicate.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPredicateFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPropertyList.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPropertyListFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPropertyMI.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIPropertyMIFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIResult.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIResultFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISelectCond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISelectCondFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISelectExp.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISelectExpFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIStatus.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIString.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIStringFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISubCond.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPISubCondFT.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/unionCMPIValue.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/structCMPIValuePtr.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpidt_8h_source.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpift_8h_source.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpimacs_8h_source.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpios_8h_source.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/cmpipl_8h_source.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_b.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_c.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_d.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_e.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_f.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_g.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_i.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_j.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_l.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_m.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_n.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_o.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_p.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_r.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_s.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_t.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_u.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_v.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_x.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_func.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_type.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_enum.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_eval.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_defs.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_b.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_c.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_d.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_e.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_f.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_g.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_i.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_k.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_l.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_m.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_n.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_o.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_p.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_q.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_r.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_s.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_t.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_u.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/globals_v.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_b.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_c.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_d.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_e.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_f.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_g.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_h.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_i.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_j.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_l.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_m.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_n.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_o.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_p.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_r.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_s.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_t.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_u.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_v.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>http://cmpi-wg.github.io/cmpi-releases/2.1.0/api/functions_vars_x.html</loc>
+  <lastmod>2015-10-04T06:51:10+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.26</priority>
+</url>
 </urlset>
