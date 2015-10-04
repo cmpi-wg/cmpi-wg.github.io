@@ -11,7 +11,7 @@
 
   <url>
     <loc>http://cmpi-wg.github.io/</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -21,13 +21,13 @@
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/index.html</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/cmpi_2.1.0_api.html</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -45,19 +45,19 @@
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/olderversions.html</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/contribution.html</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/license.html</loc>
-    <lastmod>2015-10-03</lastmod>
+    <lastmod>2015-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
