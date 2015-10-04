@@ -44,10 +44,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://cmpi-wg.github.io/cmpi-releases/2.0.0/files/cmpi_2.0_headers.zip</loc>
+    <lastmod>2015-10-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>http://cmpi-wg.github.io/olderversions.html</loc>
     <lastmod>2015-10-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://cmpi-wg.github.io/contribution.html</loc>
