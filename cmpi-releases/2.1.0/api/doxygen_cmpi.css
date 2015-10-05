@@ -75,17 +75,17 @@ div.line {
 
 #projectname
 {
-  font: 300% 'Lucida Grande',Verdana,sans-serif;
+  font: bold 150% 'Lucida Grande',Verdana,sans-serif;
 }
     
 #projectbrief
 {
-  font: 120% 'Lucida Grande',Verdana,sans-serif;
+  font: 100% 'Lucida Grande',Verdana,sans-serif;
 }
 
 #projectnumber
 {
-  font: 80% 'Lucida Grande',Verdana,sans-serif;
+  font: 100% 'Lucida Grande',Verdana,sans-serif;
 }
 
 div.toc li {
